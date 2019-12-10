@@ -1,0 +1,1647 @@
+﻿Log file open, 12/09/19 20:58:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SibaStar
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.083633
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +3:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epiclocale=ru-RU
+LogInit: Base Directory: D:/programs/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.09-17.58.12:087][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.09-17.58.12:087][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.09-17.58.12:087][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.58.12:087][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.09-17.58.12:087][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2019.12.09-17.58.12:087][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2019.12.09-17.58.12:087][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2019.12.09-17.58.12:087][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2019.12.09-17.58.12:087][  0]LogConfig: Setting CVar [[r.Mobile.UseLegacyShadingModel:0]]
+[2019.12.09-17.58.12:087][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:2]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2019.12.09-17.58.12:088][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[vr.MultiView:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[vr.MobileMultiView.Direct:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[r.SupportMaterialLayers:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.58.12:089][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.09-17.58.12:089][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.09-17.58.12:090][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.09-17.58.12:090][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.09-17.58.12:090][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.58.12:090][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.58.12:093][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.09-17.58.12:093][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.09-17.58.12:094][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.09-17.58.12:095][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.09-17.58.12:095][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.09-17.58.12:095][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.09-17.58.12:095][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.09-17.58.12:095][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.09-17.58.12:095][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.09-17.58.12:095][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.09-17.58.12:095][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.09-17.58.12:095][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.09-17.58.12:095][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.09-17.58.12:095][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.58.12:095][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.09-17.58.12:095][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.09-17.58.12:095][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.09-17.58.12:095][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.09-17.58.12:098][  0]LogHAL: Display: Platform has ~ 16 GB [17058197504 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.09-17.58.12:098][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.09-17.58.12:098][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.09-17.58.12:098][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Scalability.ini]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.09-17.58.12:099][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.09-17.58.12:100][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.09-17.58.12:100][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.09-17.58.12:100][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Eshiba/github/SibaStar/SibaStar/Saved/Config/Windows/Engine.ini]
+[2019.12.09-17.58.12:100][  0]LogInit: Computer: DESKTOP-VBCJ5GB
+[2019.12.09-17.58.12:100][  0]LogInit: User: Eshiba
+[2019.12.09-17.58.12:100][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.09-17.58.12:100][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.09-17.58.12:100][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.09-17.58.12:100][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.09-17.58.12:100][  0]LogMemory: Process Physical Memory: 100.69 MB used, 100.70 MB peak
+[2019.12.09-17.58.12:100][  0]LogMemory: Process Virtual Memory: 100.67 MB used, 100.67 MB peak
+[2019.12.09-17.58.12:100][  0]LogMemory: Physical Memory: 5710.18 MB used,  10557.79 MB free, 16267.96 MB total
+[2019.12.09-17.58.12:100][  0]LogMemory: Virtual Memory: 4668.37 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2019.12.09-17.58.12:104][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.09-17.58.12:126][  0]LogInit: Using OS detected language (ru-RU).
+[2019.12.09-17.58.12:126][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.12.09-17.58.12:127][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.12.09-17.58.12:127][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.12.09-17.58.12:127][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.12.09-17.58.12:127][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.12.09-17.58.12:127][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.12.09-17.58.12:127][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.12.09-17.58.12:127][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.12.09-17.58.12:128][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.12.09-17.58.12:128][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.09-17.58.12:169][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.09-17.58.12:169][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.09-17.58.12:388][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.09-17.58.12:388][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.09-17.58.12:559][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.12.09-17.58.12:559][  0]LogD3D11RHI:       4021/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.09-17.58.12:575][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2019.12.09-17.58.12:575][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.09-17.58.12:578][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.09-17.58.12:578][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.09-17.58.12:578][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.09-17.58.12:615][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.09-17.58.12:615][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.12.09-17.58.12:615][  0]LogWindows: EnumDisplayDevices:
+[2019.12.09-17.58.12:616][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2019.12.09-17.58.12:616][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.09-17.58.12:616][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2019.12.09-17.58.12:616][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.12.09-17.58.12:617][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.12.09-17.58.12:617][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.12.09-17.58.12:617][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.12.09-17.58.12:617][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2019.12.09-17.58.12:673][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.09-17.58.12:686][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.09-17.58.13:079][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.09-17.58.13:089][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.09-17.58.13:099][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.09-17.58.13:109][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.09-17.58.13:120][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.09-17.58.13:129][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.09-17.58.13:140][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.09-17.58.13:153][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.09-17.58.13:159][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.09-17.58.13:204][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.09-17.58.13:204][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.09-17.58.13:205][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.09-17.58.13:208][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.09-17.58.13:230][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.09-17.58.13:230][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.09-17.58.13:251][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.09-17.58.13:251][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.09-17.58.13:261][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.09-17.58.13:272][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.09-17.58.13:283][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.09-17.58.13:295][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.09-17.58.13:329][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.09-17.58.13:329][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.09-17.58.13:329][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.09-17.58.13:339][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.09-17.58.13:389][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../../Eshiba/github/SibaStar/SibaStar/Intermediate/Shaders/WorkingDirectory/9084/).
+[2019.12.09-17.58.13:389][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Eshiba/AppData/Local/Temp/UnrealShaderWorkingDir/661BB3814E97B5D3F44BF09F59109D3B/'.
+[2019.12.09-17.58.13:391][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.09-17.58.13:391][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.09-17.58.13:391][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.09-17.58.14:397][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.09-17.58.14:468][  0]LogDerivedDataCache: Loaded boot cache 0.07s 73MB C:/Users/Eshiba/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.09-17.58.14:468][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Eshiba/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.09-17.58.14:468][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Eshiba/github/SibaStar/SibaStar/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.09-17.58.14:468][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.09-17.58.14:468][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Eshiba/github/SibaStar/SibaStar/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.09-17.58.14:468][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.09-17.58.14:483][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.09-17.58.14:483][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.09-17.58.14:483][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.09-17.58.14:485][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Eshiba/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.09-17.58.14:485][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.09-17.58.14:485][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.09-17.58.14:513][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.09-17.58.14:517][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.09-17.58.14:517][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.09-17.58.14:587][  0]LogAssetRegistry: FAssetRegistry took 0.0035 seconds to start up
+[2019.12.09-17.58.15:010][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.09-17.58.15:240][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.09-17.58.15:240][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.09-17.58.15:240][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.09-17.58.15:240][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.09-17.58.15:240][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.09-17.58.15:250][  0]LogNetVersion: SibaStar 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 383663418)
+[2019.12.09-17.58.15:875][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.067364 seconds
+[2019.12.09-17.58.15:885][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.09-17.58.15:885][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.09-17.58.15:885][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.09-17.58.17:042][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.09-17.58.17:045][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.09-17.58.17:100][  0]SourceControl: Source control is disabled
+[2019.12.09-17.58.17:100][  0]SourceControl: Source control is disabled
+[2019.12.09-17.58.17:102][  0]SourceControl: Source control is disabled
+[2019.12.09-17.58.17:103][  0]SourceControl: Source control is disabled
+[2019.12.09-17.58.17:189][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.09-17.58.17:357][  0]LogOcInput: OculusInput pre-init called
+[2019.12.09-17.58.17:363][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.09-17.58.17:364][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.09-17.58.17:441][  0]LogEngine: Initializing Engine...
+[2019.12.09-17.58.17:442][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.09-17.58.17:443][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.09-17.58.17:711][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.09-17.58.17:727][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.09-17.58.17:751][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.09-17.58.17:764][  0]LogInit: FAudioDevice initialized.
+[2019.12.09-17.58.17:765][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.09-17.58.17:860][  0]LogDerivedDataCache: Saved boot cache 0.09s 73MB C:/Users/Eshiba/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.09-17.58.17:867][  0]LogInit: Texture streaming: Enabled
+[2019.12.09-17.58.17:882][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.09-17.58.17:945][  0]LogInit: Transaction tracking system initialized
+[2019.12.09-17.58.17:970][  0]BlueprintLog: New page: Editor Load
+[2019.12.09-17.58.18:034][  0]LocalizationService: Localization service is disabled
+[2019.12.09-17.58.18:385][  0]LogFileCache: Scanning file cache for directory 'D:/Eshiba/github/SibaStar/SibaStar/Content/' took 0.00s
+[2019.12.09-17.58.18:386][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.09-17.58.18:386][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.09-17.58.18:563][  0]SourceControl: Source control is disabled
+[2019.12.09-17.58.18:643][  0]LogSlate: Took 0.000227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.09-17.58.22:188][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2019.12.09-17.58.22:188][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-17.58.22:198][  0]Cmd: MAP LOAD FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-17.58.22:199][  0]LightingResults: New page: Lighting Build
+[2019.12.09-17.58.22:201][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-17.58.22:201][  0]MapCheck: New page: Map Check
+[2019.12.09-17.58.22:201][  0]LightingResults: New page: Lighting Build
+[2019.12.09-17.58.22:234][  0]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2019.12.09-17.58.22:380][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.12.09-17.58.22:387][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2019.12.09-17.58.22:428][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2019.12.09-17.58.22:429][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-17.58.22:429][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,217ms to complete.
+[2019.12.09-17.58.22:429][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.232
+[2019.12.09-17.58.22:449][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-17.58.22:517][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.58.22:529][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.58.22:541][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.58.22:553][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.58.22:559][  0]LogCollectionManager: Loaded 0 collections in 0.001370 seconds
+[2019.12.09-17.58.22:566][  0]LogFileCache: Scanning file cache for directory 'D:/Eshiba/github/SibaStar/SibaStar/Saved/Collections/' took 0.00s
+[2019.12.09-17.58.22:566][  0]LogFileCache: Scanning file cache for directory 'D:/Eshiba/github/SibaStar/SibaStar/Content/Developers/Eshiba/Collections/' took 0.00s
+[2019.12.09-17.58.22:567][  0]LogFileCache: Scanning file cache for directory 'D:/Eshiba/github/SibaStar/SibaStar/Content/Collections/' took 0.00s
+[2019.12.09-17.58.22:567][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000005 seconds
+[2019.12.09-17.58.22:580][  0]LogContentBrowser: Native class hierarchy populated in 0.0129 seconds. Added 2863 classes and 680 folders.
+[2019.12.09-17.58.22:586][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2019.12.09-17.58.22:635][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.09-17.58.22:641][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2019.12.09-17.58.22:717][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.09-17.58.22:726][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.09-17.58.22:772][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2019.12.09-17.58.22:874][  0]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.09-17.58.22:898][  0]LogSlate: Window 'Tutorials' being destroyed
+[2019.12.09-17.58.22:914][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.09-17.58.22:914][  0]LogLoad: (Engine Initialization) Total time: 11.78 seconds
+[2019.12.09-17.58.22:914][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.09-17.58.22:973][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.09-17.58.23:009][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.09-17.58.23:037][  1]LogAssetRegistry: Asset discovery search completed in 8.4500 seconds
+[2019.12.09-17.58.23:043][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000006 seconds (found 0 objects)
+[2019.12.09-17.58.23:043][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000083 seconds (updated 0 objects)
+[2019.12.09-17.58.24:051][  5]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.09-17.58.24:893][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.58.35:441][143]LogAIModule: Creating AISystem for world TestMap
+[2019.12.09-17.58.35:452][143]LogAssetEditorManager: Opening Asset editor for World /Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap
+[2019.12.09-17.58.35:485][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2019.12.09-17.58.35:486][143]Cmd: MAP LOAD FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/Map/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.09-17.58.35:486][143]LightingResults: New page: Lighting Build
+[2019.12.09-17.58.35:487][143]LoadErrors: New page: Loading map: TestMap.umap
+[2019.12.09-17.58.35:487][143]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-17.58.35:488][143]MapCheck: New page: Map Check
+[2019.12.09-17.58.35:488][143]LightingResults: New page: Lighting Build
+[2019.12.09-17.58.35:516][143]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.12.09-17.58.35:600][143]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.09-17.58.35:631][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2019.12.09-17.58.35:668][143]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.09-17.58.35:670][143]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,868ms to complete.
+[2019.12.09-17.58.35:670][143]LogFileHelpers: Loading map 'TestMap' took 0.184
+[2019.12.09-17.58.39:950][568]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-17.58.41:086][667]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-17.58.41:653][718]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-17.58.50:866][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.59.12:663][275]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.12.09-17.59.23:450][177]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-17.59.25:831][360]LogEditorViewport: Clicking on Actor (LMB): SibaChar_C (SibaChar)
+[2019.12.09-17.59.29:885][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-17.59.44:693][776]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-17.59.44:710][776]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-17.59.44:710][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-17.59.44:710][776]PIE: New page: PIE session: TestMap (9 дек. 2019 г., 23:59:44)
+[2019.12.09-17.59.44:711][776]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.09-17.59.44:712][776]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-17.59.44:742][776]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.09-17.59.45:339][776]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.597 s
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: 
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: Ensure condition failed: !(bDuplicateForPIE && DupObjectInfo.DuplicatedObject->HasAnyFlags(RF_Standalone)) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/UObject/UObjectGlobals.cpp] [Line: 2094]
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: 
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: Stack: 
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ffdb2bcd609 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ffdb2afca3e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ffdb2afbcb5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ffda8c5537d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ffd98c2d127 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ffda8c51efd UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ffda8c73c01 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ffda8c8daf5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ffda874d9b4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ffda8fa4b16 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ff6613e7b0a UE4Editor.exe!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ff6613fa91c UE4Editor.exe!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ff6613fa9fa UE4Editor.exe!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ff66140b92c UE4Editor.exe!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ff66140e60e UE4Editor.exe!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ffdfe857bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: [Callstack] 0x00007ffdfff8ced1 ntdll.dll!UnknownFunction []
+[2019.12.09-17.59.45:339][776]LogOutputDevice: Error: 
+[2019.12.09-17.59.45:379][776]LogStats:                SubmitErrorReport -  0.000 s
+[2019.12.09-17.59.45:869][776]LogStats:                    SendNewReport -  0.490 s
+[2019.12.09-17.59.45:869][776]LogStats:             FDebug::EnsureFailed -  1.126 s
+[2019.12.09-17.59.45:869][776]LogPlayLevel: PIE: StaticDuplicateObject took: (1.156417s)
+[2019.12.09-17.59.45:871][776]LogAIModule: Creating AISystem for world TestMap
+[2019.12.09-17.59.45:872][776]LogPlayLevel: PIE: World Init took: (0.002206s)
+[2019.12.09-17.59.45:872][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap to /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap (1.159042s)
+[2019.12.09-17.59.45:915][776]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2019.12.09-17.59.45:922][776]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.09-17.59.45:928][776]LogInit: FAudioDevice initialized.
+[2019.12.09-17.59.45:939][776]LogLoad: Game class is 'SIbaGameMode_C'
+[2019.12.09-17.59.45:942][776]LogWorld: Bringing World /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2019.12.09-20.59.45
+[2019.12.09-17.59.45:944][776]LogWorld: Bringing up level for play took: 0.004274
+[2019.12.09-17.59.45:945][776]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2019.12.09-17.59.45:950][776]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.09-17.59.45:951][776]PIE: Play in editor start time for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap 2,152
+[2019.12.09-17.59.45:951][776]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-17.59.58:950][ 91]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-17.59.58:951][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.59.58:951][ 91]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-17.59.58:951][ 91]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-17.59.58:964][ 91]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-17.59.58:965][ 91]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-17.59.58:997][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-17.59.58:999][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.12.09-17.59.59:057][ 96]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.09-18.00.00:416][236]Cmd: TRANSACTION UNDO
+[2019.12.09-18.00.00:416][236]LogEditorTransaction: Undo Set Scale
+[2019.12.09-18.00.03:134][475]Cmd: TRANSACTION UNDO
+[2019.12.09-18.00.03:134][475]LogEditorTransaction: Undo Set Scale
+[2019.12.09-18.00.04:309][586]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-18.00.05:081][639]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-18.00.05:569][675]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-18.00.07:859][853]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-18.00.09:339][965]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.00.31:476][245]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.12.09-18.00.52:889][517]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.01.01:990][ 63]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-18.01.08:702][459]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.01.18:150][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.01.28:475][634]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-18.01.32:357][864]Cmd: DELETE
+[2019.12.09-18.01.32:357][864]Cmd: ACTOR DELETE
+[2019.12.09-18.01.32:510][864]LogEditorActor: Deleted Actor: PaperTileMapActor
+[2019.12.09-18.01.32:558][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.12.09-18.01.32:559][864]LogEditorActor: Deleted 1 Actors (0.202 secs)
+[2019.12.09-18.01.34:099][956]Cmd: TRANSACTION UNDO
+[2019.12.09-18.01.34:099][956]LogEditorTransaction: Undo Delete Actors
+[2019.12.09-18.01.36:174][ 75]Cmd: DELETE
+[2019.12.09-18.01.36:174][ 75]Cmd: ACTOR DELETE
+[2019.12.09-18.01.36:178][ 75]LogEditorActor: Deleted Actor: Brush
+[2019.12.09-18.01.36:206][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.12.09-18.01.36:208][ 75]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2019.12.09-18.01.37:407][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.01.42:648][461]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-18.01.45:653][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.01.45:737][642]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-18.01.45:754][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.01.45:754][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-18.01.45:754][642]PIE: New page: PIE session: TestMap (10 дек. 2019 г., 0:01:45)
+[2019.12.09-18.01.45:754][642]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-18.01.45:780][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025810s)
+[2019.12.09-18.01.45:781][642]LogAIModule: Creating AISystem for world TestMap
+[2019.12.09-18.01.45:781][642]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2019.12.09-18.01.45:781][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap to /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap (0.027084s)
+[2019.12.09-18.01.45:811][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2019.12.09-18.01.45:819][642]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.09-18.01.45:827][642]LogInit: FAudioDevice initialized.
+[2019.12.09-18.01.45:832][642]LogLoad: Game class is 'SIbaGameMode_C'
+[2019.12.09-18.01.45:835][642]LogWorld: Bringing World /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.12.09-21.01.45
+[2019.12.09-18.01.45:837][642]LogWorld: Bringing up level for play took: 0.003974
+[2019.12.09-18.01.45:838][642]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.09-18.01.45:840][642]PIE: Play in editor start time for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap 0,039
+[2019.12.09-18.01.45:840][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.01.50:838][942]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.01.50:838][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.01.50:838][942]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-18.01.50:838][942]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-18.01.50:849][942]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-18.01.50:849][942]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.01.50:885][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.01.50:887][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2019.12.09-18.01.50:951][946]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.09-18.01.51:521][980]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-18.01.59:732][467]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-18.02.02:291][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.02.13:791][310]LogSlate: Took 0.000193 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.09-18.02.15:368][404]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-18.02.15:385][404]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.02.15:385][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-18.02.15:385][404]PIE: New page: PIE session: TestMap (10 дек. 2019 г., 0:02:15)
+[2019.12.09-18.02.15:385][404]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-18.02.15:410][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024768s)
+[2019.12.09-18.02.15:411][404]LogAIModule: Creating AISystem for world TestMap
+[2019.12.09-18.02.15:411][404]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2019.12.09-18.02.15:411][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap to /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap (0.026034s)
+[2019.12.09-18.02.15:438][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2019.12.09-18.02.15:446][404]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.09-18.02.15:453][404]LogInit: FAudioDevice initialized.
+[2019.12.09-18.02.15:462][404]LogLoad: Game class is 'SIbaGameMode_C'
+[2019.12.09-18.02.15:465][404]LogWorld: Bringing World /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.12.09-21.02.15
+[2019.12.09-18.02.15:467][404]LogWorld: Bringing up level for play took: 0.004250
+[2019.12.09-18.02.15:467][404]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.12.09-18.02.15:469][404]PIE: Play in editor start time for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap -0,331
+[2019.12.09-18.02.15:469][404]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.02.22:701][838]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.02.22:702][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.02.22:702][838]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-18.02.22:702][838]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-18.02.22:712][838]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-18.02.22:712][838]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.02.22:745][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.02.22:747][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.12.09-18.02.22:812][842]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.09-18.02.23:565][887]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-18.02.24:347][931]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-18.02.32:192][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.02.35:384][587]Cmd: TRANSACTION UNDO
+[2019.12.09-18.02.35:384][587]LogEditorTransaction: Undo Move Actors
+[2019.12.09-18.02.37:193][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.02.37:328][698]LogActorFactory: Actor Factory created Cube
+[2019.12.09-18.02.38:593][770]LogActorFactory: Actor Factory created Cube
+[2019.12.09-18.02.48:547][361]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.02.51:988][567]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.02.52:071][572]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-18.02.52:087][572]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.02.52:087][572]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-18.02.52:087][572]PIE: New page: PIE session: TestMap (10 дек. 2019 г., 0:02:52)
+[2019.12.09-18.02.52:087][572]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-18.02.52:112][572]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024423s)
+[2019.12.09-18.02.52:113][572]LogAIModule: Creating AISystem for world TestMap
+[2019.12.09-18.02.52:113][572]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2019.12.09-18.02.52:113][572]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap to /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap (0.025672s)
+[2019.12.09-18.02.52:140][572]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2019.12.09-18.02.52:148][572]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.09-18.02.52:155][572]LogInit: FAudioDevice initialized.
+[2019.12.09-18.02.52:160][572]LogLoad: Game class is 'SIbaGameMode_C'
+[2019.12.09-18.02.52:163][572]LogWorld: Bringing World /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.12.09-21.02.52
+[2019.12.09-18.02.52:165][572]LogWorld: Bringing up level for play took: 0.003907
+[2019.12.09-18.02.52:165][572]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.09-18.02.52:167][572]PIE: Play in editor start time for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap 0,368
+[2019.12.09-18.02.52:167][572]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.02.59:035][984]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.02.59:035][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.02.59:035][984]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-18.02.59:036][984]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-18.02.59:050][984]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-18.02.59:050][984]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.02.59:098][984]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.02.59:100][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.12.09-18.02.59:147][987]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.09-18.03.00:114][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.09-18.03.10:179][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.03.10:245][650]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-18.03.10:260][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.03.10:260][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-18.03.10:260][650]PIE: New page: PIE session: TestMap (10 дек. 2019 г., 0:03:10)
+[2019.12.09-18.03.10:260][650]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-18.03.10:281][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020885s)
+[2019.12.09-18.03.10:282][650]LogAIModule: Creating AISystem for world TestMap
+[2019.12.09-18.03.10:282][650]LogPlayLevel: PIE: World Init took: (0.000962s)
+[2019.12.09-18.03.10:282][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap to /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap (0.021994s)
+[2019.12.09-18.03.10:306][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2019.12.09-18.03.10:312][650]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.09-18.03.10:318][650]LogInit: FAudioDevice initialized.
+[2019.12.09-18.03.10:324][650]LogLoad: Game class is 'SIbaGameMode_C'
+[2019.12.09-18.03.10:327][650]LogWorld: Bringing World /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.12.09-21.03.10
+[2019.12.09-18.03.10:328][650]LogWorld: Bringing up level for play took: 0.003388
+[2019.12.09-18.03.10:328][650]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.09-18.03.10:330][650]PIE: Play in editor start time for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap 0,53
+[2019.12.09-18.03.10:330][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.03.31:379][913]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.03.31:379][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.03.31:379][913]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-18.03.31:379][913]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-18.03.31:390][913]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-18.03.31:390][913]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.03.31:418][913]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.03.31:420][913]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.12.09-18.03.31:485][917]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.09-18.03.37:921][303]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (TileMapTest)
+[2019.12.09-18.03.39:195][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.09-18.03.44:459][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.03.44:542][692]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-18.03.44:561][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.03.44:561][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-18.03.44:561][692]PIE: New page: PIE session: TestMap (10 дек. 2019 г., 0:03:44)
+[2019.12.09-18.03.44:561][692]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-18.03.44:586][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024690s)
+[2019.12.09-18.03.44:587][692]LogAIModule: Creating AISystem for world TestMap
+[2019.12.09-18.03.44:587][692]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2019.12.09-18.03.44:587][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap to /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap (0.025961s)
+[2019.12.09-18.03.44:613][692]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.12.09-18.03.44:620][692]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.09-18.03.44:627][692]LogInit: FAudioDevice initialized.
+[2019.12.09-18.03.44:638][692]LogLoad: Game class is 'SIbaGameMode_C'
+[2019.12.09-18.03.44:642][692]LogWorld: Bringing World /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.12.09-21.03.44
+[2019.12.09-18.03.44:644][692]LogWorld: Bringing up level for play took: 0.004317
+[2019.12.09-18.03.44:644][692]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.09-18.03.44:646][692]PIE: Play in editor start time for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap 0,846
+[2019.12.09-18.03.44:646][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.03.50:587][ 48]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.03.50:587][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.03.50:587][ 48]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-18.03.50:587][ 48]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-18.03.50:600][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-18.03.50:600][ 48]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.03.50:639][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.03.50:642][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2019.12.09-18.03.50:688][ 51]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.09-18.03.51:671][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.09-18.03.58:066][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.04.10:651][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.04.12:766][371]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-18.04.12:784][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.04.12:784][371]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-18.04.12:784][371]PIE: New page: PIE session: TestMap (10 дек. 2019 г., 0:04:12)
+[2019.12.09-18.04.12:784][371]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-18.04.12:809][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025368s)
+[2019.12.09-18.04.12:810][371]LogAIModule: Creating AISystem for world TestMap
+[2019.12.09-18.04.12:810][371]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2019.12.09-18.04.12:811][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap to /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap (0.026543s)
+[2019.12.09-18.04.12:840][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2019.12.09-18.04.12:847][371]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.09-18.04.12:854][371]LogInit: FAudioDevice initialized.
+[2019.12.09-18.04.12:864][371]LogLoad: Game class is 'SIbaGameMode_C'
+[2019.12.09-18.04.12:868][371]LogWorld: Bringing World /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.12.09-21.04.12
+[2019.12.09-18.04.12:870][371]LogWorld: Bringing up level for play took: 0.004009
+[2019.12.09-18.04.12:870][371]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.09-18.04.12:872][371]PIE: Play in editor start time for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap 1,072
+[2019.12.09-18.04.12:872][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.04.20:320][817]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.04.20:320][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.04.20:320][817]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-18.04.20:320][817]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-18.04.20:331][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-18.04.20:331][817]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-18.04.20:362][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-18.04.20:364][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.12.09-18.04.20:428][821]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.09-18.09.44:095][892]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.12.09-18.09.44:326][892]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/TestMap_Auto19CF5D9C343ABDF7C28B634B00FACAB8E.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/Autosaves/Game/2DSideScrollerBP/Eshiba/Map/TestMap_Auto1.umap'
+[2019.12.09-18.09.44:331][892]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Eshiba/Map/TestMap' took 0.258
+[2019.12.09-18.09.44:331][892]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.258
+[2019.12.09-18.13.34:419][581]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-18.13.34:419][581]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-18.13.35:576][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.09-18.13.44:467][109]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-18.13.44:467][109]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-18.14.00:341][ 53]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Eshiba/UI/SpellCraft.SpellCraft
+[2019.12.09-18.14.00:583][ 53]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 121 classes and 0 folders.
+[2019.12.09-18.14.01:955][ 53]LogSlate: Took 0.000206 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.09-18.14.31:605][699]LogSlate: Took 0.115281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2019.12.09-18.16.40:488][927]LogEditorTransaction: Undo Add Widget
+[2019.12.09-18.16.47:718][330]LogEditorTransaction: Undo Add Widget
+[2019.12.09-18.17.06:307][302]LogEditorTransaction: Undo Add Widget
+[2019.12.09-18.17.06:631][320]LogEditorTransaction: Undo Move Widget
+[2019.12.09-18.17.07:024][342]LogEditorTransaction: Undo Move Widget
+[2019.12.09-18.17.07:381][363]LogEditorTransaction: Undo Move Widget
+[2019.12.09-18.17.07:804][388]LogEditorTransaction: Undo Add Widget
+[2019.12.09-18.17.08:231][413]LogEditorTransaction: Undo Add Widget
+[2019.12.09-18.19.02:295][948]LogEditorTransaction: Undo Add Widget
+[2019.12.09-18.19.02:767][970]LogEditorTransaction: Undo Add Widget
+[2019.12.09-18.19.44:727][937]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2019.12.09-18.19.44:727][937]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Eshiba/Map/TestMap' took 0.097
+[2019.12.09-18.19.44:729][937]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft] ([1] browsable assets)...
+[2019.12.09-18.19.44:729][937]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft]
+[2019.12.09-18.19.44:741][937]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft_Auto2900E04F243B54BB5516AEBA8FBF90F6B.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/Autosaves/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft_Auto2.uasset'
+[2019.12.09-18.19.44:741][937]LogFileHelpers: Auto-saving content packages took 0.013
+[2019.12.09-18.26.10:169][970]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-18.26.10:169][970]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-18.26.37:855][441]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-18.26.37:855][441]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-18.27.35:005][792]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.27.35:054][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2019.12.09-18.27.37:342][924]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.27.37:388][924]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2019.12.09-18.27.48:830][602]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.27.48:834][602]LogBlueprint: Error: [Compiler SpellCraft] This blueprint (self) is not a ListView, therefore ' Target ' must have a connection.
+[2019.12.09-18.27.48:876][602]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2019.12.09-18.27.54:153][916]LogEditorTransaction: Undo Delete current selection
+[2019.12.09-18.28.05:122][533]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.28.05:165][533]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2019.12.09-18.28.07:477][670]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.28.07:518][670]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2019.12.09-18.30.08:966][471]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.30.09:011][471]LogUObjectHash: Compacting FUObjectHashTables data took   4.59ms
+[2019.12.09-18.30.10:328][549]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.30.10:376][549]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.12.09-18.30.10:820][575]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.30.10:867][575]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.09-18.30.10:996][582]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.30.11:039][582]LogUObjectHash: Compacting FUObjectHashTables data took   4.06ms
+[2019.12.09-18.30.11:162][589]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.30.11:203][589]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.12.09-18.30.11:346][597]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.30.11:386][597]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2019.12.09-18.30.11:526][605]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.30.11:565][605]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2019.12.09-18.32.05:827][376]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.32.05:830][376]LogBlueprint: Error: [Compiler SpellCraft] Cannot construct objects of type 'None' in  Construct Object from Class
+[2019.12.09-18.32.05:874][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2019.12.09-18.32.07:367][461]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-18.32.47:326][961]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.12.09-18.32.55:103][424]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Eshiba/UI/Item.Item
+[2019.12.09-18.33.03:996][918]BlueprintLog: New page: Compile Item
+[2019.12.09-18.33.04:208][918]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2019.12.09-18.33.07:993][121]BlueprintLog: New page: Compile Item
+[2019.12.09-18.33.08:037][121]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2019.12.09-18.33.08:733][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/Item" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/Item.uasset" SILENT=true
+[2019.12.09-18.33.08:747][150]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/ItemB093C2F64D36C1EA98DFFBB8D9AFEDCC.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/Item.uasset'
+[2019.12.09-18.33.12:659][376]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-18.33.20:079][811]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.33.20:129][811]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2019.12.09-18.33.21:554][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-18.33.21:582][887]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraftCAC3C1AF4EAC0F606B59E2B9E0D8BD7D.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-18.35.46:391][740]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-18.35.56:056][312]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.35.56:101][312]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2019.12.09-18.35.57:769][404]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-18.35.57:795][404]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraftD1EF1FCC40891E7F16C118A8D823170F.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-18.36.08:996][ 66]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.36.09:049][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   6.26ms
+[2019.12.09-18.36.13:364][321]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.36.13:409][321]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2019.12.09-18.36.14:046][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-18.36.14:062][354]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraftC424CCD3421B2CA6F9C109BAFE085CC6.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-18.37.10:889][131]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-18.37.23:786][892]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.37.23:787][892]LogBlueprint: Error: [Compiler SpellCraft] Outer object is required in  Construct Object from Class
+[2019.12.09-18.37.23:835][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2019.12.09-18.37.34:286][464]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.37.34:330][464]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.12.09-18.37.49:852][379]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.37.49:896][379]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2019.12.09-18.38.21:190][157]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.38.21:241][157]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2019.12.09-18.38.23:701][282]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.38.23:753][282]LogUObjectHash: Compacting FUObjectHashTables data took   4.91ms
+[2019.12.09-18.38.24:342][309]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.38.24:396][309]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2019.12.09-18.38.36:841][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-18.38.36:857][ 21]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraftB34446984D081273B0A8429490624BA1.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-18.38.37:430][ 54]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.38.37:483][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.12.09-18.38.39:647][173]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-18.38.39:661][173]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft628CE5854D8A43D97B07B3BFED2DEF6B.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-18.38.40:830][233]BlueprintLog: New page: Compile Item
+[2019.12.09-18.38.40:876][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2019.12.09-18.38.41:264][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/Item" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/Item.uasset" SILENT=true
+[2019.12.09-18.38.41:280][250]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/Item33BAC56546F74F482EF117895ECC4303.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/Item.uasset'
+[2019.12.09-18.38.42:342][310]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.38.42:388][310]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2019.12.09-18.38.43:078][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-18.38.43:090][348]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft0B5499334AFA76BAB08AB8B769D9CBB6.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-18.38.45:813][491]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.38.45:870][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.12.09-18.38.46:719][530]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-18.38.46:733][530]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft42F1FDA94F4E8E003F2B189A3370A1AF.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-18.40.33:352][106]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2019.12.09-18.40.33:352][106]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Eshiba/Map/TestMap' took 0.040
+[2019.12.09-18.40.33:354][106]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft] ([1] browsable assets)...
+[2019.12.09-18.40.33:354][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft]
+[2019.12.09-18.40.33:371][106]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft_Auto39ECC65394577B627F476A7A7FC0D1EA6.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/Autosaves/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft_Auto3.uasset'
+[2019.12.09-18.40.33:371][106]LogFileHelpers: Auto-saving content packages took 0.018
+[2019.12.09-18.41.45:724][776]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-18.43.05:720][395]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.43.05:769][395]LogUObjectHash: Compacting FUObjectHashTables data took   4.98ms
+[2019.12.09-18.43.10:267][658]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-18.43.12:517][789]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.43.12:564][789]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2019.12.09-18.43.16:435][ 16]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.43.16:476][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   4.11ms
+[2019.12.09-18.43.16:607][ 22]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.43.16:658][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2019.12.09-18.43.16:758][ 26]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.43.16:812][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2019.12.09-18.43.16:937][ 31]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.43.16:988][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   4.54ms
+[2019.12.09-18.43.17:127][ 36]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.43.17:181][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   5.89ms
+[2019.12.09-18.43.17:300][ 41]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.43.17:348][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2019.12.09-18.43.17:483][ 46]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.43.17:537][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2019.12.09-18.43.17:641][ 50]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-18.43.17:685][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.09-18.45.41:459][257]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-18.50.34:057][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2019.12.09-18.50.34:057][ 59]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Eshiba/Map/TestMap' took 0.055
+[2019.12.09-18.50.34:059][ 59]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft] ([1] browsable assets)...
+[2019.12.09-18.50.34:059][ 59]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft]
+[2019.12.09-18.50.34:465][ 59]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft_Auto4CEE45D6A4385B16A4515FC800335C98E.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/Autosaves/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft_Auto4.uasset'
+[2019.12.09-18.50.34:466][ 59]LogFileHelpers: Auto-saving content packages took 0.407
+[2019.12.09-18.56.21:397][607]BlueprintLog: New page: Compile Item
+[2019.12.09-18.56.21:445][607]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2019.12.09-18.56.21:920][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/Item" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/Item.uasset" SILENT=true
+[2019.12.09-18.56.21:939][629]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/ItemE50FC2D54A86FEC5DEAD2FB518B81D22.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/Item.uasset'
+[2019.12.09-18.59.56:655][612]LogSlate: Took 0.331675 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.09-19.00.04:778][ 80]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.00.04:781][ 80]LogClass: Warning: Type mismatch in NewVar_0 of SpellCraft_C - Previous (ArrayProperty) Current(TextProperty) for package:  FObjectReader
+[2019.12.09-19.00.04:824][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   4.92ms
+[2019.12.09-19.00.05:302][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-19.00.05:325][101]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft303279E64268FCB6A0ACCD81F2F50754.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-19.00.40:903][864]LogUObjectHash: Compacting FUObjectHashTables data took   6.43ms
+[2019.12.09-19.00.40:903][864]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Eshiba/Map/TestMap' took 0.048
+[2019.12.09-19.00.40:906][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft] ([1] browsable assets)...
+[2019.12.09-19.00.40:907][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft]
+[2019.12.09-19.00.40:925][864]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft_Auto588EC08BD4EBB99BE03FD6A87A1E5EF6C.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/Autosaves/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft_Auto5.uasset'
+[2019.12.09-19.00.40:926][864]LogFileHelpers: Auto-saving content packages took 0.020
+[2019.12.09-19.05.29:944][285]LogSlate: Window 'Tutorials' being destroyed
+[2019.12.09-19.05.43:120][ 57]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.05.43:165][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2019.12.09-19.05.49:755][437]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.05.49:804][437]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2019.12.09-19.06.03:923][258]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.06.03:968][258]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.12.09-19.09.54:857][599]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-19.10.17:955][958]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.10.18:004][958]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.12.09-19.10.20:443][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-19.10.20:468][ 98]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft0AFD17F14C01A276CAB1A0A9009DC5BE.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-19.10.23:095][239]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-19.10.23:119][239]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-19.10.23:119][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.09-19.10.23:119][239]BlueprintLog: Warning: Blueprint failed to compile:  SpellCraft
+[2019.12.09-19.10.23:209][239]LogCustomDialog: Dialog displayed:
+[2019.12.09-19.10.24:444][239]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.12.09-19.10.25:368][293]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-19.10.25:373][293]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-19.10.32:984][746]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.10.33:036][746]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2019.12.09-19.10.33:804][788]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-19.10.33:817][788]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraftC16714E14EA09A8274FB81AA0F7B6DA2.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-19.10.42:979][335]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.10.43:032][335]LogUObjectHash: Compacting FUObjectHashTables data took   5.07ms
+[2019.12.09-19.10.43:651][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-19.10.43:664][368]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft39D8C9964C6008343D25D3803BABF438.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-19.11.39:854][634]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.11.39:905][634]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2019.12.09-19.11.41:169][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-19.11.41:182][702]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft682859004536214849D1D695CF04B8F7.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-19.12.17:962][795]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.12.18:009][795]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2019.12.09-19.13.17:631][313]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-19.13.31:036][472]LogSlate: Window 'Create New Blueprint' being destroyed
+[2019.12.09-19.13.31:065][472]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Eshiba/UI/NewUserWidget.NewUserWidget
+[2019.12.09-19.13.34:616][653]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2019.12.09-19.13.34:616][653]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Eshiba/Map/TestMap' took 0.049
+[2019.12.09-19.13.34:618][653]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft] ([1] browsable assets)...
+[2019.12.09-19.13.34:618][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft]
+[2019.12.09-19.13.34:632][653]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft_Auto64BF9ACA4497B1AA579997DAD1104FA47.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/Autosaves/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft_Auto6.uasset'
+[2019.12.09-19.13.34:632][653]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Eshiba/UI/NewUserWidget] ([1] browsable assets)...
+[2019.12.09-19.13.34:633][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Eshiba/UI/NewUserWidget]
+[2019.12.09-19.13.34:643][653]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/NewUserWidget_Auto688AB1B234D0F920675CD999BEAA7F7B1.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/Autosaves/Game/2DSideScrollerBP/Eshiba/UI/NewUserWidget_Auto6.uasset'
+[2019.12.09-19.13.34:652][653]LogFileHelpers: Auto-saving content packages took 0.034
+[2019.12.09-19.13.40:052][971]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.13.40:076][971]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.13.49:284][487]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.13.49:339][487]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2019.12.09-19.14.11:312][747]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-19.14.32:698][909]LogSlate: Window 'Create New Blueprint' being destroyed
+[2019.12.09-19.14.32:728][909]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Eshiba/UI/ItemWingetList.ItemWingetList
+[2019.12.09-19.14.43:853][548]BlueprintLog: New page: Compile ItemWingetList
+[2019.12.09-19.14.44:078][548]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2019.12.09-19.14.44:712][578]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/ItemWingetList" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/ItemWingetList.uasset" SILENT=true
+[2019.12.09-19.14.44:725][578]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/ItemWingetListF671ED8749FCF350D615B2BC04B60BDC.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/ItemWingetList.uasset'
+[2019.12.09-19.14.47:675][743]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.14.47:724][743]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.12.09-19.14.48:867][799]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-19.14.48:882][799]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft615FBDC3434BC1618C661F8053C907F8.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-19.15.03:908][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/ItemWingetList" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/ItemWingetList.uasset" SILENT=true
+[2019.12.09-19.15.03:928][617]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/ItemWingetList729E391044E36777F7576DAC48AA1DAD.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/ItemWingetList.uasset'
+[2019.12.09-19.15.14:323][969]LogSlate: Window 'Create New Blueprint' being destroyed
+[2019.12.09-19.15.35:903][221]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/Item" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/Item.uasset" SILENT=true
+[2019.12.09-19.15.35:921][221]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/ItemCC7159574142ABAE43A023B1986FF183.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/Item.uasset'
+[2019.12.09-19.15.37:662][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-19.15.37:683][321]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft605F55D74B7944594F9CBF8D281D59C2.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-19.15.51:788][122]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-19.16.38:816][833]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.16.38:869][833]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2019.12.09-19.16.40:105][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-19.16.40:122][898]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft3606865B466BFAD41EB7A38DAAC8F161.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-19.17.36:381][106]BlueprintLog: New page: Compile ItemWingetList
+[2019.12.09-19.17.36:657][106]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2019.12.09-19.17.37:105][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/ItemWingetList" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/ItemWingetList.uasset" SILENT=true
+[2019.12.09-19.17.37:119][120]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/ItemWingetList93E6B39F492030AC22274FBBF79E6586.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/ItemWingetList.uasset'
+[2019.12.09-19.17.40:178][293]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.40:210][293]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.17.54:341][113]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-19.18.08:359][940]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.18.08:363][940]LogBlueprint: Error: [Compiler SpellCraft] Outer object is required in  Construct Object from Class
+[2019.12.09-19.18.08:423][940]LogUObjectHash: Compacting FUObjectHashTables data took   5.36ms
+[2019.12.09-19.18.42:839][936]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-19.18.42:839][936]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-19.18.46:110][132]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-19.18.46:110][132]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-19.19.07:116][378]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.19.07:174][378]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2019.12.09-19.19.08:472][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-19.19.08:496][446]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraft2E4BE304460A894A231075BED21CAEC8.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-19.19.21:229][190]LogSlate: FSceneViewport::OnFocusLost() reason 1
+[2019.12.09-19.19.26:596][508]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Eshiba/Siba/SibaChar.SibaChar
+[2019.12.09-19.19.39:918][ 81]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-19.19.39:918][ 81]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-19.20.55:918][934]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-19.21.24:545][311]BlueprintLog: New page: Compile SibaChar
+[2019.12.09-19.21.24:964][311]LogUObjectHash: Compacting FUObjectHashTables data took   5.55ms
+[2019.12.09-19.21.31:107][616]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.09-19.21.31:144][616]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-19.21.31:144][616]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.09-19.21.31:144][616]LogPlayLevel: [PlayLevel] Compiling NewUserWidget before play...
+[2019.12.09-19.21.31:194][616]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2019.12.09-19.21.31:194][616]LogPlayLevel: PlayLevel: Blueprint regeneration took 50 ms (1 blueprints)
+[2019.12.09-19.21.31:194][616]PIE: New page: PIE session: TestMap (10 дек. 2019 г., 1:21:31)
+[2019.12.09-19.21.31:194][616]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-19.21.31:219][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024716s)
+[2019.12.09-19.21.31:220][616]LogAIModule: Creating AISystem for world TestMap
+[2019.12.09-19.21.31:220][616]LogPlayLevel: PIE: World Init took: (0.001168s)
+[2019.12.09-19.21.31:220][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap to /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap (0.026020s)
+[2019.12.09-19.21.31:264][616]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2019.12.09-19.21.31:274][616]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.12.09-19.21.31:282][616]LogInit: FAudioDevice initialized.
+[2019.12.09-19.21.31:291][616]LogLoad: Game class is 'SIbaGameMode_C'
+[2019.12.09-19.21.31:294][616]LogWorld: Bringing World /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap.TestMap up for play (max tick rate 60) at 2019.12.09-22.21.31
+[2019.12.09-19.21.31:296][616]LogWorld: Bringing up level for play took: 0.003615
+[2019.12.09-19.21.31:296][616]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2019.12.09-19.21.31:376][616]LogScript: Warning: Accessed None trying to read property Text
+	SpellCraft_C /Engine/Transient.UnrealEdEngine_0:GameInstance_7.SpellCraft_C_0
+	Function /Game/2DSideScrollerBP/Eshiba/UI/SpellCraft.SpellCraft_C:ExecuteUbergraph_SpellCraft:004B
+[2019.12.09-19.21.31:376][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Text". Blueprint:  SpellCraft Function:  Execute Ubergraph Spell Craft Graph:  EventGraph Node:  SetText (Text)
+[2019.12.09-19.21.31:377][616]PIE: Play in editor start time for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap -0,424
+[2019.12.09-19.21.31:377][616]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-19.21.40:442][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-19.21.40:442][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.21.40:442][153]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Eshiba/Map/UEDPIE_0_TestMap
+[2019.12.09-19.21.40:442][153]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.21.40:469][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.09-19.21.40:469][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Eshiba/Map/TestMap.TestMap:PersistentLevel.TestMap'
+[2019.12.09-19.21.40:526][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.09-19.21.40:531][153]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2019.12.09-19.21.40:579][154]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.12.09-19.22.11:696][899]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-19.22.19:391][282]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.22.19:470][282]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2019.12.09-19.22.40:520][889]LogSlate: Window 'Create New Blueprint' being destroyed
+[2019.12.09-19.23.23:215][216]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.09-19.24.11:958][613]BlueprintLog: New page: Compile ItemWingetList
+[2019.12.09-19.24.12:299][613]LogUObjectHash: Compacting FUObjectHashTables data took   7.65ms
+[2019.12.09-19.24.56:862][848]BlueprintLog: New page: Compile SpellCraft
+[2019.12.09-19.24.56:938][848]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2019.12.09-19.24.57:915][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/SpellCraft" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset" SILENT=true
+[2019.12.09-19.24.57:945][894]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SpellCraftE1BA2DA843495F230360F5A3FF84C71A.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/SpellCraft.uasset'
+[2019.12.09-19.25.26:523][179]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2019.12.09-19.25.26:992][179]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/TestMap_Auto7293FD1544E60E4A6D1DB62874197003A.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/Autosaves/Game/2DSideScrollerBP/Eshiba/Map/TestMap_Auto7.umap'
+[2019.12.09-19.25.26:995][179]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Eshiba/Map/TestMap' took 0.517
+[2019.12.09-19.25.26:995][179]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.517
+[2019.12.09-19.25.27:001][179]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Eshiba/Siba/SibaChar] ([1] browsable assets)...
+[2019.12.09-19.25.27:001][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Eshiba/Siba/SibaChar]
+[2019.12.09-19.25.27:071][179]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SibaChar_Auto74CDB59344107F21BA877E39812704988.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/Autosaves/Game/2DSideScrollerBP/Eshiba/Siba/SibaChar_Auto7.uasset'
+[2019.12.09-19.25.27:072][179]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Eshiba/UI/ItemWingetList] ([1] browsable assets)...
+[2019.12.09-19.25.27:073][179]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Eshiba/UI/ItemWingetList]
+[2019.12.09-19.25.27:094][179]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/ItemWingetList_Auto75503DD914FC2A4820FCE759C7912B3C5.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/Autosaves/Game/2DSideScrollerBP/Eshiba/UI/ItemWingetList_Auto7.uasset'
+[2019.12.09-19.25.27:095][179]LogFileHelpers: Auto-saving content packages took 0.094
+[2019.12.09-19.29.57:445][985]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-19.29.57:450][985]LogSlate: Window 'Message Log' being destroyed
+[2019.12.09-19.29.57:460][985]LogSlate: Window 'SibaChar' being destroyed
+[2019.12.09-19.29.57:465][985]LogSlate: Window 'SibaChar' being destroyed
+[2019.12.09-19.29.57:468][985]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.29.57:505][985]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.29.57:559][985]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.29.57:578][985]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.29.57:631][985]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.29.57:761][985]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2019.12.09-19.30.02:153][985]LogSlate: Window 'Save Content' being destroyed
+[2019.12.09-19.30.02:238][985]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.12.09-19.30.02:543][985]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/TestMap9F76A7724E6F64EA4DF8E7BEC69424F0.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/Map/TestMap.umap'
+[2019.12.09-19.30.02:585][985]LogFileHelpers: Saving map 'TestMap' took 0.398
+[2019.12.09-19.30.02:591][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/Siba/SibaChar" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/Siba/SibaChar.uasset" SILENT=true
+[2019.12.09-19.30.02:628][985]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/SibaCharEBDEA58040B5E74C42C3858447A0626C.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/Siba/SibaChar.uasset'
+[2019.12.09-19.30.02:641][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/ItemWingetList" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/ItemWingetList.uasset" SILENT=true
+[2019.12.09-19.30.02:656][985]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/ItemWingetList0920F6EF4859FEC50631FCAEB7F126AA.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/ItemWingetList.uasset'
+[2019.12.09-19.30.02:667][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Eshiba/UI/NewUserWidget" FILE="../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/NewUserWidget.uasset" SILENT=true
+[2019.12.09-19.30.02:680][985]LogSavePackage: Moving '../../../../../Eshiba/github/SibaStar/SibaStar/Saved/NewUserWidget1D94ECAB4477E141185505B2DC1E64DF.tmp' to '../../../../../Eshiba/github/SibaStar/SibaStar/Content/2DSideScrollerBP/Eshiba/UI/NewUserWidget.uasset'
+[2019.12.09-19.30.02:785][985]LogSlate: Window 'SibaStar - Unreal Editor' being destroyed
+[2019.12.09-19.30.02:786][985]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.09-19.30.03:011][986]Cmd: QUIT_EDITOR
+[2019.12.09-19.30.03:349][986]LogExit: Preparing to exit.
+[2019.12.09-19.30.04:253][986]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.30.04:256][986]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.30.04:258][986]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.30.04:284][986]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.09-19.30.04:296][986]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.09-19.30.04:297][986]LogExit: Editor shut down
+[2019.12.09-19.30.04:297][986]LogExit: Transaction tracking system shut down
+[2019.12.09-19.30.04:595][986]LogExit: Object subsystem successfully closed.
+[2019.12.09-19.30.04:617][986]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.09-19.30.04:629][986]LogModuleManager: Shutting down and abandoning module SequencerWidgets (676)
+[2019.12.09-19.30.04:629][986]LogModuleManager: Shutting down and abandoning module BlueprintGraph (674)
+[2019.12.09-19.30.04:629][986]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (672)
+[2019.12.09-19.30.04:629][986]LogModuleManager: Shutting down and abandoning module Voice (670)
+[2019.12.09-19.30.04:629][986]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.12.09-19.30.04:629][986]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.12.09-19.30.04:629][986]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.12.09-19.30.04:629][986]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.12.09-19.30.04:629][986]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.12.09-19.30.04:629][986]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.12.09-19.30.04:630][986]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.12.09-19.30.04:631][986]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.12.09-19.30.04:631][986]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.12.09-19.30.04:631][986]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.12.09-19.30.04:631][986]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.12.09-19.30.04:631][986]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.12.09-19.30.04:631][986]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.12.09-19.30.04:631][986]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.12.09-19.30.04:631][986]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.12.09-19.30.04:631][986]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.12.09-19.30.04:631][986]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.12.09-19.30.04:631][986]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.12.09-19.30.04:631][986]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.12.09-19.30.05:233][986]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.12.09-19.30.05:234][986]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.12.09-19.30.05:235][986]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.12.09-19.30.05:235][986]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.12.09-19.30.05:235][986]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.12.09-19.30.05:235][986]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.12.09-19.30.05:235][986]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.12.09-19.30.05:235][986]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.12.09-19.30.05:278][986]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.12.09-19.30.05:278][986]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.12.09-19.30.05:278][986]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.12.09-19.30.05:278][986]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.12.09-19.30.05:278][986]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.12.09-19.30.05:278][986]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.12.09-19.30.05:278][986]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.12.09-19.30.05:278][986]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.12.09-19.30.05:278][986]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.12.09-19.30.05:278][986]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.12.09-19.30.05:278][986]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.12.09-19.30.05:283][986]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.12.09-19.30.05:283][986]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.12.09-19.30.05:283][986]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.12.09-19.30.05:283][986]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.12.09-19.30.05:284][986]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.12.09-19.30.05:284][986]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.09-19.30.05:284][986]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.09-19.30.05:284][986]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.09-19.30.05:285][986]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.09-19.30.05:285][986]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.12.09-19.30.05:286][986]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.12.09-19.30.05:292][986]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.12.09-19.30.05:539][986]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.12.09-19.30.05:539][986]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.12.09-19.30.05:539][986]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.12.09-19.30.05:539][986]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.12.09-19.30.05:539][986]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.12.09-19.30.05:539][986]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.12.09-19.30.05:539][986]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.12.09-19.30.05:539][986]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.12.09-19.30.05:539][986]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.12.09-19.30.05:539][986]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.12.09-19.30.05:539][986]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.12.09-19.30.05:540][986]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.12.09-19.30.05:541][986]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.12.09-19.30.05:541][986]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.12.09-19.30.05:541][986]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.12.09-19.30.05:541][986]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.09-19.30.05:541][986]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.09-19.30.05:541][986]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.09-19.30.05:541][986]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.09-19.30.05:541][986]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.09-19.30.05:541][986]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.09-19.30.05:641][986]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.09-19.30.05:742][986]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.09-19.30.05:742][986]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.09-19.30.05:742][986]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.09-19.30.05:742][986]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.09-19.30.05:742][986]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.09-19.30.05:742][986]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.09-19.30.05:742][986]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.09-19.30.05:742][986]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.09-19.30.05:742][986]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.09-19.30.05:742][986]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.09-19.30.05:742][986]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.09-19.30.05:742][986]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.09-19.30.05:742][986]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.09-19.30.05:742][986]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.09-19.30.05:744][986]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.09-19.30.05:744][986]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.09-19.30.05:744][986]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.09-19.30.05:744][986]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.09-19.30.05:745][986]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.09-19.30.05:746][986]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.09-19.30.05:746][986]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.09-19.30.05:746][986]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.09-19.30.05:746][986]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.09-19.30.05:746][986]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.09-19.30.05:749][986]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.09-19.30.05:751][986]LogDerivedDataCache: Shutdown
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.09-19.30.05:751][986]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.09-19.30.05:752][986]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.09-19.30.05:752][986]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.09-19.30.05:752][986]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.09-19.30.05:752][986]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.09-19.30.05:752][986]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.09-19.30.05:752][986]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.09-19.30.05:752][986]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.09-19.30.05:752][986]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.09-19.30.05:752][986]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.09-19.30.05:752][986]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.09-19.30.05:753][986]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.09-19.30.05:753][986]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.09-19.30.05:753][986]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.09-19.30.05:753][986]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.09-19.30.05:753][986]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.09-19.30.05:754][986]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.09-19.30.05:754][986]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.09-19.30.05:755][986]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.09-19.30.05:755][986]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.09-19.30.05:763][986]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.09-19.30.05:763][986]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.09-19.30.05:764][986]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.09-19.30.05:764][986]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.09-19.30.05:771][986]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.09-19.30.05:771][986]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2019.12.09-19.30.05:771][986]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64144429-4AE9-D206-C0EA-F78FA48E1867%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=7c1cf02948e7a69904a84aa0466f3f49%7C%7C47587017-0f16-4c90-814e-34ba8eec42fd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.09-19.30.05:771][986]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B64144429-4AE9-D206-C0EA-F78FA48E1867%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=7c1cf02948e7a69904a84aa0466f3f49%7C%7C47587017-0f16-4c90-814e-34ba8eec42fd&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.09-19.30.05:784][986]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.09-19.30.05:785][986]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.09-19.30.05:787][986]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.09-19.30.05:788][986]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.09-19.30.05:788][986]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.09-19.30.05:788][986]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.09-19.30.05:788][986]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.09-19.30.05:788][986]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.09-19.30.05:788][986]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.09-19.30.05:788][986]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.09-19.30.05:789][986]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.09-19.30.05:789][986]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.09-19.30.05:789][986]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.09-19.30.05:789][986]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.09-19.30.05:789][986]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.09-19.30.05:791][986]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.09-19.30.05:791][986]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.09-19.30.05:791][986]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.09-19.30.05:791][986]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.09-19.30.05:791][986]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.09-19.30.05:791][986]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.09-19.30.05:791][986]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.09-19.30.05:791][986]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.09-19.30.05:791][986]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.09-19.30.05:791][986]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.09-19.30.05:791][986]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.09-19.30.05:791][986]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.09-19.30.05:793][986]LogD3D11RHI: Shutdown
+[2019.12.09-19.30.05:793][986]LogD3D11RHI: CleanupD3DDevice
+[2019.12.09-19.30.05:793][986]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.09-19.30.05:793][986]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.09-19.30.05:793][986]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.09-19.30.05:915][986]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.09-19.30.05:925][986]LogExit: Exiting.
+[2019.12.09-19.30.05:948][986]Log file closed, 12/09/19 22:30:05
